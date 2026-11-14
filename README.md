@@ -10,7 +10,6 @@
 <h4>frame works & tools</h4>
 <tr>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sfml/default.svg" title="SFML" alt="SFML"  width="24"  height="24"/></th>
-  <th><img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" title="SFML" alt="React"  width="24" height="24"/></th>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" TITLE="Git" width="24"  height="24"
 /></th>
 </tr>
@@ -18,6 +17,7 @@
 <h4>auther skills i don't mastery this</h4>
 <table>
   <tr>
+  <th><img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" title="SFML" alt="React"  width="24" height="24"/></th>
   <th><img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg"
   alt="HTML5"
