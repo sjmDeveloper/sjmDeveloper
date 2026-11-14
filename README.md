@@ -1,5 +1,5 @@
 <h1> Hi Iam  a desktop app developer </h1>
-<h4>the languages i know it:</h4>
+<h4>Languages & Technologies:</h4>
 <table>
   <tr>
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" title="Python" alt="Python" width="24" height="24"/></th>
