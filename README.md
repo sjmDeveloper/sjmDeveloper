@@ -1,4 +1,4 @@
-<img width="1347" height="878" alt="image" src="https://github.com/user-attachments/assets/b927eeef-f440-4ef6-88d8-49419f6288a1" /><h1> Hi I am  a desktop app developer </h1>
+<h1> Hi I am  a desktop app developer </h1>
 <h4>Languages & Technologies:</h4>
 <table>
   <tr>
