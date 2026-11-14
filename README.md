@@ -5,6 +5,7 @@
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" title="Python" alt="Python" width="24" height="24"/></th>
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" title="C++" alt="C++" width="24" height="24"/></th>
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lua/default.svg" title="lua" alt="Lua"width="24"height="24"/></th>
+<th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lua/default.svg" title="lua" alt="Lua"width="24"height="24"/></th>
 </th>
 <table>
 <h4>frame works & tools</h4>
