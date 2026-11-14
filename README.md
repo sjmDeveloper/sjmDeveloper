@@ -1,4 +1,4 @@
-<h1> Hi I am  a desktop app developer </h1>
+<img width="1347" height="878" alt="image" src="https://github.com/user-attachments/assets/b927eeef-f440-4ef6-88d8-49419f6288a1" /><h1> Hi I am  a desktop app developer </h1>
 <h4>Languages & Technologies:</h4>
 <table>
   <tr>
@@ -7,7 +7,7 @@
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lua/default.svg" title="lua" alt="Lua"width="24"height="24"/></th>
 </th>
 <table>
-<h4>frame works & tools:</h4>
+<h4>Frame works & Tools:</h4>
 <tr>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sfml/default.svg" title="SFML" alt="SFML"  width="24"  height="24"/></th>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" TITLE="Git" width="24"  height="24"
