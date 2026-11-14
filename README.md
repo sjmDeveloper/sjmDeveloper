@@ -5,13 +5,13 @@
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" title="Python" alt="Python" width="24" height="24"/></th>
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" title="C++" alt="C++" width="24" height="24"/></th>
 <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lua/default.svg" title="lua" alt="Lua"width="24"height="24"/></th>
-<th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/lua/default.svg" title="lua" alt="Lua"width="24"height="24"/></th>
 </th>
 <table>
 <h4>frame works & tools</h4>
 <tr>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sfml/default.svg" title="SFML" alt="SFML"  width="24"  height="24"/></th>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" TITLE="Git" width="24"  height="24"
+<th><img src="qt-svgrepo-com.svg" title="lua" alt="Lua"width="24"height="24"/></th>
 /></th>
 </tr>
   </table>
