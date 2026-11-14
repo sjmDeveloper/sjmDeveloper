@@ -16,7 +16,7 @@
 /></th>
 </tr>
   </table>
-<h4>auther skills i don't mastery this</h4>
+<h4>Familiar With</h4>
 <table>
   <tr>
   <th><img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" title="SFML" alt="React"  width="24" height="24"/></th>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 <tr>
-<h4>my link to contact me</h4>
+<h4>Connect With Me:</h4>
 <table>
 <th><a href ="www.upwork.com/freelancers/~014d297249279www.upwork.com/freelancers/~014d297249279296c6?mp_source=share296c6?mp_source=share">  
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/upwork/default.svg" alt="Upwork" width="24" height="24" title="Upwork"/>
