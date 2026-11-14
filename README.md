@@ -1,4 +1,4 @@
-<h1> Hi Iam  a desktop app developer </h1>
+<h1> Hi I am  a desktop app developer </h1>
 <h4>Languages & Technologies:</h4>
 <table>
   <tr>
