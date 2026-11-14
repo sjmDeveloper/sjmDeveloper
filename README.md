@@ -11,7 +11,8 @@
 <tr>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sfml/default.svg" title="SFML" alt="SFML"  width="24"  height="24"/></th>
   <th><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" TITLE="Git" width="24"  height="24"
-<th><img src="qt-svgrepo-com.svg" title="lua" alt="Lua"width="24"height="24"/>
+/></th>
+<th><img src="qt-svgrepo-com.svg" alt="Qt6" TITLE="Qt6" width="24"  height="24"
 /></th>
 </tr>
   </table>
